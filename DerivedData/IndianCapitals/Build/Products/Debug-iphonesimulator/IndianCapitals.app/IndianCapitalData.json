@@ -1,0 +1,218 @@
+{
+  "Andra Pradesh": {
+    "Capital City": "Capital City:Hyderabad (Vijayawada Region is the proposed capital of Andhra Pradesh).",
+    "Languages": "Languages :Telugu, Urdu, Hindi, English, Kannada Oriya and Tamil.",
+    "Neighbours State": "Neighbours State:Odisha, Chhattisgarh, Telangana, Karnataka, Yanam ( Puducherry) And Tamil nadu.",
+    "About": "About:Located in the southern region of India, Andhra Pradesh is reputed for its distinct culture and fine arts.The places which are a definite must see in the state include Lord Venkateswara Temple in Tirupati, Nagarjuna Konda in Nagarjunasagar, Araku Valley and Borra Caves in Vishakhapatnam, Amaravati in Vijaywada, etc."
+  },
+  "Arunachal Pradesh": {
+    "Capital City": "Capital City:Itanagar.",
+    "Languages": "Languages :Monpa, Miji, Aka, Sherdukpen, Apatani, Adi, Hill Miri.",
+    "Neighbours State": "Neighbours State:Asom (Assam) and Nagaland.",
+    "About":"About:Ranked as the most charming state in India, Arunachal Pradesh is characterised by lofty mountains and snow-clad peaks.Beautiful as it is, the state is home to several popular tourist hubs like Sinyi Bomdila, Tawang and Gyaker."
+  },
+  "Assam ": {
+    "Capital City": "Capital City:Dispur.",
+    "Languages": "Languages :Assamese, Bodo, Karbi, Bengali.",
+    "Neighbours State": "Neighbours State:Meghalaya, Arunachal Pradesh, Nagaland, Manipur, Tripura, Mizoram West Bengal.",
+    "About":"About:Situated in Northeastern India, Assam abounds in natural beauty. The population of Assam is said to be a mix of people of Tibetan, Aryan, and Burman origins.Assam over the years has also developed into an important tourist destination with attractions such as Gandhi Mandap, Kamakhya Temple, Umananda, Nabagraha (Temple of nine planets), State Zoo, State Museum, etc. "
+  },
+  " Bihar": {
+    "Capital City": "Capital City:Patna.",
+    "Languages": "Languages :Hindi, Bhojpuri, Maithili, Angika, Magadhi.",
+    "Neighbours State": "Neighbours State:Jharkhand, Uttar Pradesh, West Bengal.",
+    "About":"About:Situated in Eastern India, Bihar boasts of a rich cultural heritage that dates back to ancient India. The people of Bihar are lively and co-exist in peace and harmony. The festivals celebrated in the state include Buddha Purnima, Saraswati Puja, Eid-ul-Fitr, Holi, Rath yatra, Maha Shivaratri and Mahavir Jayanti. Chandigarh."
+  },
+  "Chhattisgarh": {
+    "Capital City": "Capital City:Raipur.",
+    "Languages": "Languages :Hindi, Oriya, Marathi, Chhattisgarhi, Gondi, Korku.",
+    "Neighbours State": "Neighbours State:Madhya Pradesh, Maharashtra, Jharkhand, Orissa, Uttar Pradesh, Telangana.",
+    "About":"About:Chhattisgarh is a state located in central India and is famous as a source of electricity and steel. The state is gifted with a rich cultural heritage and attracts tourists. The waterfalls, wildlife sanctuaries and national parks and the caves of the state are major attractions of the state. "
+  },
+  "Goa": {
+    "Capital City": "Capital City:Panaji.",
+    "Languages": "Languages :Konkani, Marathi, English, Hindi, Portuguese.",
+    "Neighbours State": "Neighbours State:Maharashtra, Karnataka.",
+    "About":"About:Situated in the Malabar Coast of India, Goa is arguably the best beach resort in India. Populated with a mix of Christians and Hindus, Goa's culture is unique in its own way.The major attraction in the state is its long stretches of pristine beaches. The churches, beaches, museums are the most visited places in the state.The major attraction in the state is its long stretches of pristine beaches. The churches, beaches, museums are the most visited places in the state."
+  },
+  "Gujarat": {
+    "Capital City": "Capital City: Gandhinagar.",
+    "Languages": "Languages:English, Gujarati, Sindhi, Marwari, Kutchi, Urdu, Hindi, Sourashtra, Vasavi.",
+    "Neighbours State": "Neighbours State:Madhya Pradesh, Maharashtra, Rajasthan, Daman and Diu, Dadra and Nagar Haveli.",
+    "About":"About:Known as 'Jewel of the West', Gujarat is situated in the western part of India. It is historically one of the main centers of the Indus Valley Civilization. The diversified cultures of the state are proved from the fact that not only the major Hindu festivals are celebrated here, but festivals like Eid, Mahavir Jayanti and Christmas etc. are also celebrated with equal zeal and fervour."
+  },
+  "Haryana": {
+    "Capital City": "Capital City: Chandigarh(Shared with Punjab).",
+    "Languages": "Languages:Hindi, Punjabi, Urdu, Haryanvi.",
+    "Neighbours State": "Neighbours State:Delhi, Uttarpradesh, Rajasthan, Punjab, Uttarakhand, Himachal Pradesh.",
+    "About":"About:Haryana was carved out of Punjab and was declared a separate state on 1 November 1966. Haryana has an important contribution in the history of India. There are many important sites in the state which belongs to the Indus Valley Civilizations and Vedic Civilizations. The epic battles of the Indian history were also fought in the state. The people of the state have kept their old cultural and social customs alive till now. The state is also a tourism hub with many places of interests."
+  },
+  "Himachal Pradesh": {
+    "Capital City": "Capital City: Shimla.",
+    "Languages": "Languages:Hindi, English, Punjabi, Kinnauri, Pahari, Kangri and Dogri.",
+    "Neighbours State": "Neighbours State:Jammu and Kashmir, Punjab, Haryana, Uttar Pradesh, Uttrakhand.",
+    "About":"About:Himachal Pradesh is a popular state which is known for its beauty and splendour. Earlier it was also known as 'Devbhoomi' which means the abode of Gods. It is a tourism hub and attracts tourists from different parts of the world. The major attractions are the adventure sports which the state offers like paragliding, ice skating, rafting and many more."
+  },
+  "Jammu and Kashmir": {
+    "Capital City": "Capital City:Srinagar (summer), Jammu (winter).",
+    "Languages": "Languages:Urdu, Hindi, Punjabi, Dogri, Kashmiri, Balti, Ladakhi, Purig, Gurji, Dadri.",
+    "Neighbours State": "Neighbours State:Himachal Pradesh, Punjab.",
+    "About":"About:Jammu and Kashmir enjoys autonomy in India under Article 370 of the Indian Constitution. It comprises three regions- Jammu, Kashmir Valley and Ladakh. Kashmir Valley is known as the 'Paradise on Earth' and therefore attracts many tourists. Many Hindu tourists visit Jammu and Kashmir for pilgrimage as the holy shrines of Vaishno Devi and Amarnath are located in this region."
+  },
+  "Jharkhand": {
+    "Capital City": "Capital City: Ranchi.",
+    "Languages": "Languages:Mundari , Kurukh, Khortha, Nagpuria, Sadri, Khariya, Panchparagnia, Ho, Malto, Karmali, Bangla, Hindi, Urdu, Santhali",
+    "Neighbours State": "Neighbours State:Bihar, Uttar Pradesh, West Bengal, Orissa, Chhattisgarh.",
+    "About":"About:Also known as the 'Land of Forests', Jharkhand is rich in mineral resources such as mica, bauxite, iron, coal, copper, etc. It is a tribal dominated state and the people here consider nature to be an important part of their lives. Ranchi Hills, Netarhat, Sun Temple, Baidynath Dham are some of the places of interest in the state."
+  },
+  "Karnataka": {
+    "Capital City": "Capital City: Bengaluru.",
+    "Languages": "Languages: Kannada, Tulu, Hindi, Bengali, Mahl.",
+    "Neighbours State": "Neighbours State:Maharashtra, Goa, Kerala, Andhra Pradesh, Telangana, Tamil Nadu.",
+    "About":"About:Karnataka is located in Southwest India and is surrounded by Arabian Sea and Laccadive Sea in the and west many other neighbouring states. There are various ethnicities based on language and religion in the state. Ancient temples, attractive hills, modern infrastructure, beaches and forests, Karnataka has an extensive range of all these features."
+  },
+  "Kerala": {
+    "Capital City": "Capital City: Trivandrum.",
+    "Languages": "Languages:Malayalam, English.",
+    "Neighbours State": "Neighbours State:Tamil Nadu, Karnataka, Lakshadweep.",
+    "About":"About:Popularly known as God's Own Country, Kerala is a state situated in the Southwest of India. It is popular for its spices and rubber production. It is also one of the major producers of fishes in India. The culture of the state is cosmopolitan in nature and has distinctive art, lifestyle, architecture, language and literature.Kerala is one of the favourite destinations in India among the tourists. Beaches, temples, churches, wildlife sanctuaries are the tourist hubs in the state."
+  },
+  "Madhya Pradesh": {
+    "Capital City": "Capital City: Bhopal.",
+    "Languages": "Languages:Punjabi, Malvi, Nimadi, Punjabi, Bhilodi, Gondi, Korku, Kalto, Nihali.",
+    "Neighbours State": "Neighbours State:Maharashtra, Gujarat, Rajasthan, Uttar Pradesh, Chhattisgarh.",
+    "About":"About:Madhya Pradesh is located in central India and due to its geographical location it is also known as the 'heart of India'. There are many tribes, castes and ethnic groups in the state and majority of the population practice Hinduism.Madhya Pradesh has much to offer to wildlife enthusiasts in the form of wildlife sanctuaries and national parks. Karera Wildlife Sanctuary, Ken Gharial Sanctuary, Bandhavgarh National Park and Kanha National Park are some of the most visited places in the state.."
+  },
+  "Maharashtra": {
+    "Capital City": "Capital City: Mumbai.",
+    "Languages": "Languages:Marathi, English, Konkani.",
+    "Neighbours State": "Neighbours State:Madhya Pradesh, Gujarat, Telangana, Karnataka, Goa, Chhattisgarh, Dadra and Nagar Haveli.",
+    "About":"About:Located in the western region of the country, Maharashtra is the second most populated state in the country. Historically, Maharashtra exists since the 3rd century and has been an industrial, commercial and trade hub till date. Both, Hindi and the Marathi film industry are located in the state which attract and fascinate many people. Ganesh Chaturthi is the main festival which is celebrated with full zeal and pomp."
+  },
+  "Manipur": {
+    "Capital City": "Capital City: Imphal.",
+    "Languages": "Languages:Manipuri, Meitei",
+    "Neighbours State": "Neighbours State:Assam, Nagaland, Mizoram.",
+    "About":"About:Manipur is a state located in the Northeastern region of India. People from several cultures like Mizo, Kuki, Naga reside in Manipur. Manipuris are very warm by nature and the women in the state enjoy a high status in the society. Since time immemorial, theatre has been an important part of the Lai Haraoba festivals of the state."
+  },
+  "Meghalaya": {
+    "Capital City": "Capital City: Shillong.",
+    "Languages": "Languages:Khasi, Bengali, Garo, Hindi, English.",
+    "Neighbours State": "Neighbours State: Assam.",
+    "About":"About:Meghalaya literally means 'The Abode of Clouds' and is landlocked between Assam and Bangladesh. Around 70% area of the state is forested and the forests here receive plenty of rainfall which supports varieties of flora and fauna. There are three major tribes which reside in Meghalaya - Jaintias, Khasis and Garos. Lakes, hills, gardens, waterfalls, rivers and peaks, Meghalaya has a lot to add to its beauty. Therefore, it attracts tourists in large numbers."
+  },
+  "Mizoram": {
+    "Capital City": "Capital City: Aizawl.",
+    "Languages": "Languages:Mizo, Hindi, English.",
+    "Neighbours State": "Neighbours State:Tripura, Assam, Manipur.",
+    "About":"About:Mizoram is popularly known as the 'Land of the Highlanders' and is one of the states of the Northeast India. Almost 95% of the population of the state comprises different tribal groups. Majority of the population of the state practices Christianity. Minority population includes Hindus, Muslims and Buddhists."
+  },
+  "Nagaland": {
+    "Capital City": "Capital City: Kohima.",
+    "Languages": "Languages:Nagamese, Creole, Assamese, English.",
+    "Neighbours State": "Neighbours State:Arunachal Pradesh, Assam, Manipur.",
+    "About":"About:Nagaland is one of the seven sister states of India. There are 16 tribes in the state and each tribe is distinctive in terms of language, dress and traditions. Christianity is the main religion of the state with majority of the population belonging to the Baptist group. Nagaland is also known as the land of festivals.Hornbill Festival is celebrated to encourage inter-tribal interaction and is celebrated with full zeal by the Naga people."
+  },
+  "Odisha": {
+    "Capital City": "Capital City: Bhubaneswar.",
+    "Languages": "Languages:Oriya, Magadhi",
+    "Neighbours State": "Neighbours State:West Bengal, Jharkhand, Chhattisgarh, Telangana, Andhra Pradesh.",
+    "About":"About:Also known as 'The Land of Temples', Odisha is situated on the east coast of India. In ancient times, Odisha became popular due to the Kalinga rule which was headed by Maurayan Emperor Ashoka. Dance, music, sculptures and historical monuments highlight the rich tradition and culture of the state.The temples of Odisha are famous throughout India and are worth visiting. The ratha yatra at Jagannath Puri attracts thousands of devotees every year to the state."
+  },
+  "Punjab": {
+    "Capital City": "Capital City: Chandigarh(Shared with Haryana)",
+    "Languages": "Languages:Punjabi, Hindi, Urdu, Gurmukhi and English.",
+    "Neighbours State": "Neighbours State: Jammu and Kashmir, Himachal Pradesh, Haryana, Rajasthan.",
+    "About":"About:The 'Land of Five Rivers', Punjab is located in the Northwest region of India. Punjab clearly demarcates India from Pakistan. The state is popular throughout the world for its rich and colourful culture. Punjabis are known for their flamboyant and rich lifestyle.The tourism in the state revolves around the historical places, battle sites and pilgrim destinations. The Golden Temple of Amritsar is one of the most visited places by the tourists from all over the world."
+  },
+  "Rajasthan": {
+    "Capital City": "Capital City: Jaipur.",
+    "Languages": "Languages:Rajasthani, Marwari, Mewari, Dhundhari, Mewati and Harauti, Hindi, Punjabi.",
+    "Neighbours State": "Neighbours State:Madhya Pradesh, Gujarat, Haryana, Uttar Pradesh, Delhi, Punjab",
+    "About":"About:The largest state of India in terms of area, Rajasthan is also known as the 'Land of Kings'. It is bordered by several other states - Punjab, Gujarat, Madhya Pradesh, Uttar Pradesh and Haryana. The culture of the state is very rich and artistic. The dances of the state like Ghoomar and Kalbeliya are internationally recognised.The palaces, forts, temples and the Thar Desert are the most fascinating places of interest in the state."
+  },
+  "Sikkim": {
+    "Capital City": "Capital City: Gangtok.",
+    "Languages": "Languages:Nepali, Limbu, Majhi, Majhwar, Sikkimese, Sherpa, Tamang, Thulung, Tibetan, English, Hindi etc.",
+    "Neighbours State": "Neighbours State:West Bengal.",
+    "About":"About:Sikkim is a state situated in the Northeastern region of India and is the least populated state in the country. Sikkim touches borders with three neighbouring countries - China, Bhutan and Nepal. Its culture is a blend of Hinduism and Buddhism and many Buddhists festivals like Losoong, Tseshi, Lhabsol, Dasain, etc. are widely celebrated in every part of the state.The state is a heaven for tourists and nature lovers. It is blessed with gifts from Mother Nature and the serenity of the place draw large number of visitors."
+  },
+  "Tamil Nadu": {
+    "Capital City": "Capital City: Chennai.",
+    "Languages": "Languages:Tamil, Telugu, Malayalam, Kannada, Urdu, English.",
+    "Neighbours State": "Neighbours State:Kerala, Karnataka, Andhra Pradesh.",
+    "About":"About:Tamil Nadu is located in the Southern most region of India and is surrounded by other states like Andhra Pradesh, Kerala, Puducherry and Karnataka. Tamilians are very fond of dance, music and literature. Bharatnatyam and Carnatic music has grown here since ages. Tamil Nadu has one of the largest tourism industries in the country. The Hindu temples, beaches, hills and national parks and wildlife sanctuaries are the tourists' delights."
+  },
+  "Telangana": {
+    "Capital City": "Capital City: Hyderabad(Shared with Andhra Pradesh).",
+    "Languages": "Languages:Telugu, Urdu.",
+    "Neighbours State": "Neighbours State:Andhra Pradesh, Odisha, Chhattisgarh, Maharashtra, Karnataka.",
+    "About":"About:The 29th state of India, Telangana came into being on 2 June 2014. Earlier it was a part of Andhra Pradesh and now is bordered by Maharashtra, Karnataka, Chhattisgarh and Andhra Pradesh. The culture of the state is inspired from Persians, Mughals and Nizams.Monuments, temples and water falls are the major tourist attractions in the state."
+  },
+  "Tripura": {
+    "Capital City": "Capital City: Agartala.",
+    "Languages": "Languages:Bengali, Kokborok, English, Noyakhali, Chakma.",
+    "Neighbours State": "Neighbours State:Assam, Mizoram.",
+    "About":"About:Tripura is one of the seven sister states of India and shares its borders with Bangladesh, Mizoram and Assam. The Sanskrit meaning of Tripura is 'three cities'. There are many ethnic groups in the state such as Tripuri, Garo, Munda, Oran and many more. The bamboo and cane handicrafts in the state are very popular.Palaces, temples and wildlife sanctuaries draw maximum tourists to the state."
+  },
+  "Uttar Pradesh": {
+    "Capital City": "Capital City: Lucknow.",
+    "Languages": "Languages:Hindi, Urdu, English, Awadhi, Bhojpuri, Bundeli, Braj etc.",
+    "Neighbours State": "Neighbours State:Uttarakhand, Himachal Pradesh, Haryana, Delhi, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, Bihar.",
+    "About":"About:Uttar Pradesh is literally known as 'Northern Province' and is located in Northern India. It shares its borders with many other states like Delhi, Rajasthan, Haryana, Uttarakhand and many more. The culture of the state has roots in its art, literature, history and traditions.The Kumbh mela organised in the state is visited by large numbers of tourists from across the country. Taj Mahal in Agra which is also one of the Seven Wonders of the World attracts tourists from all over the world."
+  },
+  "Uttarakhand": {
+    "Capital City": "Capital City: Dehradun",
+    "Languages": "Languages:Garhwali, Kumaoni, Hindi, Sanskrit, English",
+    "Neighbours State": "Neighbours State:Himachal Pradesh, Haryana, Uttar Pradesh",
+    "About":"About:Uttarakhand, also known as 'Devbhumi' (Land of Gods), is a state located in Northern India. The society of the state is a heterogeneous mix of different ethnic group from Garhwal and Kumaon regions. Music is an important element of the culture of the state and people sing folk songs during the time of celebrations and festivities.Uttarakhand offers immense options for tourism to the visitors - hill stations, pilgrimages, wildlife sanctuaries and national parks."
+  },
+  "West Bengal": {
+    "Capital City": "Capital City: Kolkata.",
+    "Languages": "Languages:Bengali, Hindi, English, Nepali.",
+    "Neighbours State": "Neighbours State:Assam, Sikkim, Bihar, Jharkhand, Odisha.",
+    "About":"About:Located in the Northeastern part of the country, West Bengal is surrounded by three different countries - Nepal, Bangladesh and Bhutan, and the states of India like Jharkhand, Odisha, Sikkim, Assam and Bihar.Durga Puja is the most famous festival of the state and Saraswati Puja, Laxmi Puja, Poila Baisakhi, etc. are some other festivals celebrated in West Bengal. The hill stations like Darjeeling and Siliguri attracts tourists to the state."
+  },
+  "Andaman and Nicobar Islands": {
+    "Capital City": "Capital City:Port Blair.",
+    "Languages": "Languages:Bengali, Hindi, Tamil, Malayalam, Nicobarese, Telugu.",
+    "About":"About:Popular as the Emerald Isles, the Andaman and Nicobar islands situated in the Bay of Bengal is one of the popular tourist's destinations in India. This union territory is home to numerous aboriginal tribes and two distinct native cultures the Negrito and the Andamans.Some of the popular tourist spots in the union territory include National Memorial, Marine Museum, Naval Marine Museum, Smrithika Museum, Haddo Zoological Garden."
+  },
+  "Chandigarh": {
+    "Capital City": "Capital City:Chandigarh.",
+    "Languages": "Languages:Hindi, Punjabi, English.",
+    "Neighbours State": "Neighbours State:Punjab, Haryana.",
+    "About":"About:Chandigarh is the first ever planned city in India. It was planned by the French architect Le Corbusier. The city tops the union territories of India and is significant as it has the highest per capita income as compared to other union territories of the country.Chandigarh is a prestigious city as it is the capital of two states, Punjab and Haryana. Today, it is recognized as a city of modern India."
+  },
+  "Dadar and Nagar Haveli": {
+    "Capital City": "Capital City: Silvassa.",
+    "Languages": "Languages:English, Gujarati, Hindi, Marathi.",
+    "Neighbours State": "Neighbours State:Gujarat, Maharashtra, Daman n Diu.",
+    "About":"About:Lying in close proximity to the west coast of India, Dadra & Nagar Haveli is home to a mass of shy and simple Adivasis. Evolving as an important hub for tourist, this union territory houses numerous tourist attractions like Tribal Cultural Museum, Khanvel, Vanganga Lake and Island Garden."
+  },
+  "Daman and Diu": {
+    "Capital City": "Capital City: Daman.",
+    "Languages": "Languages:Warli, Agri, Konkani, Gujarati, Hindi, English.",
+    "Neighbours State": "Neighbours State: Gujarat.",
+    "About":"About:Daman and Diu, a union territory of India, is located on the Arabian Sea near Gujarat. It is full of multi-faced cultural heritage. For the people of Daman, music and dance are a part of everyday life.The temples, beaches and churches of the union territory are the major tourist attractions."
+  },
+  "Delhi": {
+    "Capital City": "Capital City:Delhi.",
+    "Languages": "Languages:Hindi, English, Punjabi, Urdu.",
+    "Neighbours State": "Neighbours State:Haryana, Uttar Pradesh.",
+    "About":"About:The capital city of India, Delhi is also known as National Capital Territory of India. In the Indian history, Delhi had been the capital of many kingdoms and rules. Delhi is not only a political capital of the country but is also an administrative unit of the Indian government as the Indian Parliament and many ministries are present here."
+  },
+  "Lakshadweep": {
+    "Capital City": "Capital City: Kavaratti.",
+    "Languages": "Languages:Divehi, Malayalam, Jeseri, Tamil, Mahi, English.",
+    "About":"About:Lakshadweep is a group of islands in the Laccadive Sea and is the smallest union territory of India. Many religions and customs are followed in Lakshadweep but majority of the population practice Islam.This archipelago attracts many tourists and offer water sports activities to the tourists such as snorkeling and scuba diving."
+  },
+  "Puducherry": {
+    "Capital City": "Capital City: Pondicherry.",
+    "Languages": "Languages:Tamil, English, French, Telugu and Malayalam.",
+    "Neighbours State": "Neighbours State:Tamil Nadu.",
+    "About":"About:Puducherry was earlier known as Pondicherry and is a famous tourist destination among people from India and abroad. It is also known as 'the French Riviera of the East'. The union territory has a French influence as it was ruled by the French for a long time. The French infrastructure and the French colonies are the major attractions here."
+  }
+  
+
+}
